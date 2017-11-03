@@ -1,2 +1,21 @@
-# gui
-for gui-programming-exercises
+# Introduction
+
+meta:  
+Java GUIプログラミングのメモ.
+20161224
+
+---
+
+# pgm
+## ラベルにテキスト表示
+
+- 位置その他の属性をコントロールするテスト
+- TestTextOnLabel.java
+	- ラベルにテキストを表示
+	- 上下左右の位置を設定
+	- 位置の設定情報を取得
+	- ラベルの背景色は指定するも反映されず
+
+
+
+end.
